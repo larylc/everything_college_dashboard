@@ -10,7 +10,7 @@
 + Users can look at a wide range of variables including: school stats, tuition, completion rate, debt, diversity, standardized scores, earnings after enrollment, and many more. 
 + This Dashboard allows users to adjust variables and observe changes over time. 
 
-### R Tools Used
+### R Packages Used:
 
 ```
 library(tidyverse)
