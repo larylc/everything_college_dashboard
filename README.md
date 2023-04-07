@@ -6,7 +6,7 @@
 
 ### Advantages over other college websites: 
 
-+ While most college websites only allow you to compare colleges 1 at a time, users use the dashboard to compare 2 colleges side by side. 
++ While most college websites only allow you to compare colleges 1 at a time, users can use this dashboard to compare 2 colleges side by side. 
 + Users can look at a wide range of variables including: school stats, tuition, completion rate, debt, diversity, standardized scores, earnings after enrollment, and many more. 
 + This Dashboard allows users to adjust variables and observe changes over time. 
 
